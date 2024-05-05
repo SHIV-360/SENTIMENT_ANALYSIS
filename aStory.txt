@@ -1,0 +1,7 @@
+### DAY1 - 
+I brought few thousand lines of data for testing and training from different places (github, AI assitance, manually) 
+once that is done I started the pre processing for today i will just clean the data
+
+
+### DAY2 - 
+today I did the tokenization and removal of stopwords used in bengali then save it to a csv file (sentiment_clean_data.csv) 
