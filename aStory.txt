@@ -9,3 +9,7 @@ today I did the tokenization and removal of stopwords used in bengali then save 
 
 ### DAY3 - 
 today word to vector using ngram apporach is done so far everythong is working fine 
+
+
+### DAY4 - 
+today i did the spliting part then training and after checking accuracy my output is working 
