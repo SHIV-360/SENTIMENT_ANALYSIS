@@ -1,0 +1,19 @@
+### DAY1 - 
+I brought few thousand lines of data for testing and training from different places (github, AI assitance, manually) 
+once that is done I started the pre processing for today i will just clean the data
+
+
+### DAY2 - 
+today I did the tokenization and removal of stopwords used in bengali then save it to a csv file (sentiment_clean_data.csv) 
+
+
+### DAY3 - 
+today word to vector using ngram apporach is done so far everythong is working fine 
+
+
+### DAY4 - 
+today i did the spliting part then training and after checking accuracy my output is working 
+
+
+### DAY5 -
+today i finaly give rest to this project with a touch of tkinter user interface, a simple yet usefull 
